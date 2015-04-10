@@ -6,3 +6,5 @@ Capture debug logging to a file that user can easily send to you via email.  Thi
 Library provides hooks to start, stop, send, and delete log file.
 
 Simple demo app that uses library included.
+
+![RemoteLoggerDemo](https://github.com/sschendel/RemoteLogger/blob/master/docs/sc1.png?raw=true)
