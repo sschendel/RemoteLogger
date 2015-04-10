@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item android:id="@+id/menu_opt_log_startstop"
+        android:title="Start logging"
+        />
+    <item android:id="@+id/menu_opt_deletelog"
+        android:title="Delete log file"
+        />
+
+</menu>
