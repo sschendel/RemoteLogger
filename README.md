@@ -8,3 +8,7 @@ Library provides hooks to start, stop, send, and delete log file.
 Simple demo app that uses library included.
 
 ![RemoteLoggerDemo](https://github.com/sschendel/RemoteLogger/blob/master/docs/sc1.png?raw=true)
+
+![RemoteLoggerDemo](https://github.com/sschendel/RemoteLogger/blob/master/docs/sc2.png?raw=true)
+
+![RemoteLoggerDemo](https://github.com/sschendel/RemoteLogger/blob/master/docs/sc4.png?raw=true)
